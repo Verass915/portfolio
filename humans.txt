@@ -1,0 +1,36 @@
+__  __
+\ \/ /
+ \  /
+  \/ 
+
+The humans.txt file explains the team, technology,
+and graphic assets behind this site humanstxt.org.
+
+_______________________________________________________________________________
+
+DESIGNER 
+
+Hamish Williams
+Hand crafted design & web development
+
+Design tools:
+Figma
+Photoshop
+
+twitter.com/hamishmw
+github.com/hamishmw
+
+_______________________________________________________________________________
+
+TECHNOLOGY 
+
+React
+Three js
+Popmotion
+
+_______________________________________________________________________________
+
+FONTS 
+
+Gotham
+Hiragino Kaku Gothic
